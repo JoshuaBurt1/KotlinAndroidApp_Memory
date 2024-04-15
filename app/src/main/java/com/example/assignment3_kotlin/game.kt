@@ -134,7 +134,7 @@ class Game : Fragment() {
         for (index in indices) {
             val cell = cells.getOrNull(index)
             cell?.setBackgroundResource(R.drawable.cell_clicked)
-            cell?.text = "0" 
+            cell?.text = "0"
         }
     }
 
