@@ -1,5 +1,5 @@
 # KotlinAndroidApp (Game)
-Remember the shown grid location and match, navigation menu, splash screen, high score 
+Remember the shown grid location and match. Includes navigation menu and high score. 
 
 # To Run in Android Studio
 
