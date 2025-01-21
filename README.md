@@ -1,7 +1,7 @@
 # KotlinAndroidApp (Game)
 Remember the shown grid location and match. Includes navigation menu and high score. 
 
-# To Run in Android Studio
+## To Run in Android Studio
 
 1. Download Android Studio
 2. File -> Open Project
@@ -9,7 +9,7 @@ Remember the shown grid location and match. Includes navigation menu and high sc
 4. Choose running device for emulation
 5. Run App (Play)
 
-# To Run on Device/phone
+## To Run on Device/phone
 
 *Enable developer mode on phone/device:
 1. Connect phone/device by USB to device with Android Studio running
